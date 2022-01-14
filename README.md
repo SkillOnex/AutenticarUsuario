@@ -32,12 +32,12 @@ existem modos mais "bem feitos" e "seguros" para implementar.
 
 <p align="left"> App para mostrar </p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="480" width="120" src="https://cdn.discordapp.com/attachments/902529056334028803/931648113997934652/unknown.png">
+  <img align="center" height="100" width="480" src="https://cdn.discordapp.com/attachments/902529056334028803/931648113997934652/unknown.png">
 </div>
 
 <p align="left"> Mensagem Discord</p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="100" width="50" src="https://cdn.discordapp.com/attachments/902529056334028803/931652253511733338/unknown.png">
+  <img align="center" height="50" width="100" src="https://cdn.discordapp.com/attachments/902529056334028803/931652253511733338/unknown.png">
 </div>
 
 #
