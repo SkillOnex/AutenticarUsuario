@@ -27,16 +27,17 @@ existem modos mais "bem feitos" e "seguros" para implementar.
   
 <p align="center"> Lembrando não sou expert em nada! </p>
 <p align="center"> Click na imagem para melhor visualização ! </p>
+
 #
 
 <p align="left"> App para mostrar </p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="550" width="1280" src="https://cdn.discordapp.com/attachments/902529056334028803/931648113997934652/unknown.png">
+  <img align="center" height="480" width="120" src="https://cdn.discordapp.com/attachments/902529056334028803/931648113997934652/unknown.png">
 </div>
 
 <p align="left"> Mensagem Discord</p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="550" width="1280" src="https://cdn.discordapp.com/attachments/902529056334028803/931652253511733338/unknown.png">
+  <img align="center" height="100" width="50" src="https://cdn.discordapp.com/attachments/902529056334028803/931652253511733338/unknown.png">
 </div>
 
 #
