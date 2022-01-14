@@ -4,12 +4,12 @@
 #
 
 <p align="center"> Esse templete foi criado por mim com o intuito que pessoas iniciantes
-possam baixar visualizar e estudar sobre ele, O foco não foi criar um "Sistema de Verificação 100% seguro etx" e sim mostrar como pode ser construido,mas adicionei um sistema 
-simples de pesquisa , pra mostrar como ele pode funcionar.</p>
+possam baixar visualizar e estudar sobre ele, O foco não foi criar um "Sistema de Verificação 100% seguro etc" e sim mostrar como pode ser construido,mas adicionei um sistema 
+simples de pesquisa por api , pra mostrar como ele pode funcionar.</p>
 
 #
 
-<p align="center"> O templete tem um sistema simples de WebHook .</p>
+<p align="center"> O templete tem um sistema simples de WebHook para enviar mensagens no discord .</p>
 
 #
 
