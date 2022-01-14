@@ -1,4 +1,4 @@
-<h3 align="center">:key: Navegador Simples :key:</h3>
+<h3 align="center">:key: Verificar IP com Validação no Discord :key:</h3>
 <p align="center">Por favor leia todo o readme com atenção!</p>
 
 #
