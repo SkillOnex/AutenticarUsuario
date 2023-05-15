@@ -32,14 +32,14 @@ existem modos mais "bem feitos" e "seguros" para implementar.
 
 <p align="left"> App para Verificar Usuario </p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="180" width="300" src="https://cdn.discordapp.com/attachments/902529056334028803/931648113997934652/unknown.png">
+  <img align="center" height="507" width="766" src="https://cdn.discordapp.com/attachments/1057713749110292610/1107813075685474365/image.png">
 </div>
 
 #
 
 <p align="left"> Mensagem exibida no Discord</p>
 <div style="display: inline_block"><br> 
-  <img align="center" height="100" width="300" src="https://cdn.discordapp.com/attachments/902529056334028803/931652253511733338/unknown.png">
+  <img align="center" height="113" width="653" src="https://cdn.discordapp.com/attachments/1057713749110292610/1107813694445994014/image.png">
 </div>
 
 #
